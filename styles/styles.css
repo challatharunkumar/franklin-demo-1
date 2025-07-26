@@ -74,7 +74,7 @@ body {
   display: none;
   margin: 0;
   background-color: var(--background-color);
-  color: #0a0a0a;
+  color: #f20c0c;
   font-family: var(--body-font-family);
   font-size: var(--body-font-size-m);
   line-height: 1.6;
